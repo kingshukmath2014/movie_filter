@@ -1,0 +1,12 @@
+.li_container {
+  font-weight: bolder;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  position: relative;
+  .movie-type {
+    position: absolute;
+    right: 0;
+    color: rgb(104, 101, 101);
+    font-weight: normal;
+  }
+}
